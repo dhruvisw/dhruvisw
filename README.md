@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhruvi Swadia</h1>
 <h3 align="center">A Hardworking and Passionate Data Scientist from India</h3>
-
+<img align="right" alt="Coding" width=300 height=550 src="https://i.pinimg.com/originals/80/3e/5a/803e5adb85f670414bd4cd97d214dcd3.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvisw&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvisw" /> </p>
-<img align="right" alt="Coding" width=400 height=600 src="https://i.pinimg.com/originals/80/3e/5a/803e5adb85f670414bd4cd97d214dcd3.jpg">
+
 - 🌱 I’m currently learning **Java, Python, Data Analytics**
 
 - 📫 How to reach me **dhruviswadia25@gmail.com**
