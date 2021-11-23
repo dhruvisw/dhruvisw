@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dhruviswadia25@gmail.com**
 
-- ⚡ Fun fact **I am really confident about stuff I know**
+- ⚡ Fun fact **I am really confident about the stuff I know😏**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
