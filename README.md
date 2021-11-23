@@ -2,8 +2,7 @@
 <h3 align="center">A Hardworking and Passionate Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvisw&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvisw" /> </p>
-<img align="right" alt="Coding" width=564 height=751 src="https://in.pinterest.com/pin/3448137204082528/">
-
+<img align="right" alt="Coding" width=564 height=751 src="https://i.pinimg.com/originals/80/3e/5a/803e5adb85f670414bd4cd97d214dcd3.jpg">
 - 🌱 I’m currently learning **Java, Python, Data Analytics**
 
 - 📫 How to reach me **dhruviswadia25@gmail.com**
