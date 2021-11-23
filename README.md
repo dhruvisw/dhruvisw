@@ -4,5 +4,6 @@
 You can mail me on dhruviswadia25@gmail.com
 
 LinkedIn profile: www.linkedin.com/in/dhruvi-swadia-9007b7203
+Twitter profile: https://twitter.com/Dhruvi_Swadia?s=20
 
 
