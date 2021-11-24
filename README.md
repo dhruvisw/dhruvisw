@@ -10,7 +10,7 @@
 - 📫 How to reach me **dhruviswadia25@gmail.com**
 
 - ⚡ Fun fact **I am really confident about the stuff I know😏**
-
+<img align="left" alt="Poster" width=250 height=300 src="https://github.com/dhruvisw/gif/blob/main/Github%20Poster.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dhruvi_swadia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvi_swadia" height="30" width="40" /></a>
