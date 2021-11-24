@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Dhruvi Swadia</h1>
 <h3 align="center">A Hardworking and Passionate Data Scientist from India</h3>
-<img align="right" alt="Poster" width=250 height=300 src="https://raw.githubusercontent.com/dhruvisw/Poster/main/Copy%20of%20Github%20Poster.png?token=AVWKVMZTDV75UOM6GD5KXFLBTTCWM">
+<img align="right" alt="Poster" width=250 height=300 src="https://github.com/dhruvisw/Poster/blob/main/Copy%20of%20Github%20Poster.png">
 <img align="right" alt="Coding" width=250 height=300 src="https://i.pinimg.com/originals/80/3e/5a/803e5adb85f670414bd4cd97d214dcd3.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvisw&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvisw" /> </p>
 
