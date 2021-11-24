@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width=900 height=450 src="https://github.com/dhruvisw/newgif/blob/main/Hey%20Welcome%20to%20My%20github%20Progile.gif">
+<img align="right" alt="Coding" width=1000 height=450 src="https://github.com/dhruvisw/newgif/blob/main/Hey%20Welcome%20to%20My%20github%20Progile.gif">
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">A Hardworking and Passionate Data Scientist from India</h3>
 <img align="right" alt="Poster" width=250 height=300 src="https://github.com/dhruvisw/gif/blob/main/Github%20Poster.gif">
