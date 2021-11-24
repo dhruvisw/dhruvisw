@@ -1,7 +1,6 @@
 <img align="right" alt="Coding" width=1000 height=475 src="https://github.com/dhruvisw/newgif/blob/main/Hey%20Welcome%20to%20My%20github%20Progile.gif">
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">A Hardworking and Passionate Data Scientist from India</h3>
-<img align="right" alt="Poster" width=250 height=300 src="https://github.com/dhruvisw/gif/blob/main/Github%20Poster.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvisw&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvisw" /> </p>
 
