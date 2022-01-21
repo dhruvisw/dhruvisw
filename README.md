@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvisw&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvisw" /> </p>
 
-- 🌱 I’m currently learning **Java, Python, Data Analytics**
+- 🌱 I’m currently learning **Machine Learning, Java, Python, Data Analytics, User Experience**
 
 - 📫 How to reach me **dhruviswadia25@gmail.com**
 
