@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **dhruviswadia25@gmail.com**
 
-- ⚡ Fun fact **I am really confident about the stuff I know😏**
+- ⚡ **I am really confident about the stuff I know😏😂**
 <img align="left" alt="Poster" width=250 height=300 src="https://github.com/dhruvisw/gif/blob/main/Github%20Poster.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
